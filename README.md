@@ -4,3 +4,4 @@
 
 - [Sorting Algorithms Video Tutorial](https://youtu.be/RfXt_qHDEPw)
 - [15 Sorting Algorithms](https://youtu.be/kPRA0W1kECg)
+- [Sound of sorting project](https://github.com/bingmann/sound-of-sorting)
